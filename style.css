@@ -105,6 +105,7 @@ section a {
 
 /* Box */
 .box {
+  margin-top: 10px;
   margin-bottom: 30px;
 }
 
