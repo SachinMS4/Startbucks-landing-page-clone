@@ -14,4 +14,4 @@ Features of Project:
 Tools used: VS Code, Chrome, Google.
 Coding: HTML, CSS, JavaScript.
 
-Live Link of the Project: https://starbucks-home-clone.netlify.app
+Live Link of the Project: [Startbucks landing page clone](https://startbucks-landing-page.netlify.app/)
